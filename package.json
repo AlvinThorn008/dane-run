@@ -1,0 +1,19 @@
+{
+  "name": "dane-run",
+  "version": "1.0.0",
+  "description": "Trying to make a game in a few hours",
+  "main": "index.js",
+  "repository": "https://github.com/AlvinThorn008/dane-run.git",
+  "author": "AlvinThorn008 <51288367+AlvinThorn008@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "create-serve": "^1.0.1",
+    "esbuild": "^0.14.18"
+  },
+  "dependencies": {
+    "@dimforge/rapier2d": "^0.8.0-alpha.1",
+    "pixi.js": "^6.2.2"
+  }
+}
