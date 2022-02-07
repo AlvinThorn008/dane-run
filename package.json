@@ -23,5 +23,8 @@
     "pixi.js": "^6.2.2",
     "typewriter-effect": "^2.18.2",
     "yarn": "^1.22.17"
+  },
+  "scripts": {
+    "build": "node esbuild.js --prod"
   }
 }
